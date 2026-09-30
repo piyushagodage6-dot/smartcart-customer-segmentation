@@ -6,7 +6,7 @@ The project uses **Agglomerative Clustering** to identify distinct customer segm
 
 ## 🚀 Live Demo
 
-👉 [Open SmartCart Live Demo]([PASTE-YOUR-STREAMLIT-LIVE-URL-HERE](https://smartcart-customer-segmentation-jsv5dvfk5rgxf5ctoxtohf.streamlit.app/))
+👉 [Open SmartCart Live Demo](https://smartcart-customer-segmentation-jsv5dvfk5rgxf5ctoxtohf.streamlit.app/)
 
 ## 📌 Project Overview
 
